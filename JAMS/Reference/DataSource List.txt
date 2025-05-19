@@ -1,0 +1,13 @@
+
+## 규제지역은 아래 링크
+용도지역 지구 - https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?searchBrmCode=&datIde=&searchFrm=&dsId=24&pageSize=10&listPageIndex=1&gidsCd=&searchKeyword=%EC%9A%A9%EB%8F%84%EC%A7%80%EC%97%AD&searchOrganization=&dataSetSeq=24&svcCde=NA&searchTagList=&pageIndex=1&gidmCd=&sortType=00&datPageIndex=1&datPageSize=10&startDate=2023-07-03&endDate=2024-07-03&fileGbnCd=&dsNm=%EB%8F%84%EC%8B%9C%EC%A7%80%EC%97%AD&formatSelect=
+
+## 지리적 제한에서 산사태는 아래링크
+https://www.data.go.kr/data/15074817/fileData.do
+
+
+## 지리적 제한 (산지 하천 경사)는 도생도 
+
+## 개별공시지가는 아래링크
+https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=MSJSXP9RULQIW3Q4A6D934096841&infSeq=3&order=&loc=&searchWord=%EA%B0%9C%EB%B3%84%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80
+
