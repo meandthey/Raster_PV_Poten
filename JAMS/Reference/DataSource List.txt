@@ -11,3 +11,4 @@ https://www.data.go.kr/data/15074817/fileData.do
 ## 개별공시지가는 아래링크
 https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=MSJSXP9RULQIW3Q4A6D934096841&infSeq=3&order=&loc=&searchWord=%EA%B0%9C%EB%B3%84%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80
 
+
