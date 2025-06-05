@@ -12,3 +12,40 @@ https://www.data.go.kr/data/15074817/fileData.do
 https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=MSJSXP9RULQIW3Q4A6D934096841&infSeq=3&order=&loc=&searchWord=%EA%B0%9C%EB%B3%84%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80
 
 
+5m2 면적의 패널이 1kW 용량이라고 가정
+시군별 최근 3년 설비이용률 가정
+
+
+태양광 발전시설 탐지를 위한 AI 학습모델 
+
+
+Decomposition Analysis of Greenhouse Gas Emissions in South Korea's Provincial and Local Governments: Identifying the Need for Renewable Energy in Gyeonggi Province. Environmental and Resource Economics Review, 33(4), 343-378.
+
+
+[Tag Jeon et al., 2024] 
+https://kier-solar.org/user/gis/map/sl
+https://www.data.go.kr/data/15066413/fileData.do#tab-layer-file
+""
+
+태양광 보급 확대를 위해서는 부지 적합성, 수용성, 경제성 등을 종합적으로 고려한 실현 가능한 잠재량 평가가 필수적이다. 특히 수도권처럼 전력 수요가 집중되면서도 재생에너지 보급이 제한적인 지역에서는, 지역 내에서 실현 가능한 잠재량의 규모와 공간적 분포를 파악하는 것이 효과적인 보급 전략 수립에 핵심적이다.
+
+또한 기존 연구들은 하나의 일사량 데이터나 단일 해상도 기반으로 분석한 경우가 많아, 데이터 출처에 따른 잠재량 평가의 차이를 정량적으로 비교하거나, 데이터 선택이 정책결정에 미치는 영향을 충분히 논의하지 못했다.
+
+이에 따라, 본 연구에서는 서로 다른 일사량 데이터(KIER vs. KMA)를 활용한 비교 분석을 통해, 잠재량 평가 결과의 민감성과 불확실성을 정량적으로 살펴보고, 경기도 시군 단위의 공간적 활용률 및 불균형 문제까지 폭넓게 고찰하고자 한다. 이는 향후 수도권의 실질적 재생에너지 보급 전략 수립과 국가 전력망 부담 완화 정책에 있어 중요한 기초자료로 활용될 수 있다.
+
+
+
+김보영, 김창기, 윤창열, 김현구, & 강용혁. (2024). 신재생에너지 국가참조표준 시스템 구축 및 개발-모델 기반 표준기상년. 신· 재생에너지, 20(1), 95-101.
+System Construction and Data Development of National Standard Reference for Renewable Energy - Model-Based Standard Meteorological Year
+
+Satellite irradiance model developed by KIER using Cheollian-1 imagery and ERA5-Land reanalysis
+Terrain-adjusted irradiance model based on LDAPS and SRTM data
+
+이러한 일사량 차이는 이론적 및 기술적 잠재량에도 거의 동일한 비율로 반영된다. 이는 이들 잠재량이 일사량에 대해 선형적으로 반응하는 구조이기 때문이다. 즉, 동일한 면적과 조건에서 일사량이 증가하면 발전량도 비례하여 증가하며, 이는 산정식 구조상 당연한 결과이다.
+
+반면, 시장 잠재량은 일사량 변화에 비선형적으로 반응한다. 일사량이 증가하면 발전량이 늘어나 LCOE가 낮아지고, 이에 따라 기존에는 경제성 기준을 충족하지 못했던 격자들이 새롭게 시장 잠재량에 포함되게 된다. 따라서 시장 잠재량의 증가는 단순한 발전량 증가에 더해, 경제성이 확보된 면적의 확대라는 추가적 효과를 동반한다.
+
+실제 분석 결과, KMA 데이터를 활용한 시장 잠재량은 KIER 기반 잠재량의 약 18.5배에 달한다. 이는 일사량 입력값 차이가 이론적·기술적 잠재량에는 선형적 영향을 주는 데 비해, 시장 잠재량에는 비선형적이며 급격한 변화를 초래함을 보여준다.
+
+이러한 결과는 일사량 데이터의 출처와 특성이 시장 잠재량 평가에 결정적인 영향을 미칠 수 있음을 시사한다. 따라서 향후 잠재량 산정 및 관련 정책 해석에서는 입력 데이터의 특성과 신뢰성에 대한 사전 검토가 필수적이다.
+
