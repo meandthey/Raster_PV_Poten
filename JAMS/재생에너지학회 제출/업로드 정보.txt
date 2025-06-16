@@ -1,0 +1,20 @@
+
+
+
+
+
+
+경기도 태양광 잠재량의 공간적 분석:  일사량 수치에 따른 영향과 정책적 시사점
+
+
+태양광 잠재량, 일사량 데이터 불확실성, 시장잠재량 활용률, 균등화 발전단가
+
+본 연구는 대한민국에서 전력 수요가 가장 높은 지역인 경기도를 대상으로 태양광의 이론적, 기술적, 시장 잠재량을 평가하였다. 두 가지 상이한 태양일사량 데이터를 활용하여, 일사량의 크기가 태양광 잠재량 추정에 미치는 영향을 분석하였다. 이론적 및 기술적 잠재량은 일사량 변화에 선형적으로 반응한 반면, 시장 잠재량은 경제성 제약으로 인해 비선형적 양상을 보였다. 분석 결과, 첫 번째 일사량 데이터를 기반으로 한 시장 잠재량은 두 번째 일사량 데이터를 기반으로 한 잠재량보다 약 18.5배 높게 나타나, 입력 데이터 선택에 따라 잠재량 추정치가 크게 달라질 수 있음을 보여준다. 또한 시군구 단위의 공간적 불균형을 분석한 결과, 기술적 잠재량은 행정면적과 양의 상관관계를 보였고, 시장 잠재량은 인구밀도와 음의 상관관계를 보였다. 2023년 실제 태양광 발전량은 시장 잠재량 추정치의 13%에 불과했다. 본 연구는 재생에너지 계획 수립 시 데이터 신뢰성과 공간적 맥락의 중요성을 강조하며, 특히 수요가 높은 경기도와 같은 지역에서 경제적·규제적·사회적 장벽을 극복하기 위한 정책적 노력이 필요함을 시사한다.
+
+
+Spatial Analysis of PV Potential in Gyeonggi Province: Impact of Irradiance Magnitude Differences and Policy Implications
+
+PV potential,  Irradiance data uncertainty, Utilization rate of market potential, Levelized cost of electricity
+
+This study evaluates the theoretical, technical, and market potential of solar photovoltaic (PV) energy in Gyeonggi Province, the region with the highest electricity demand in South Korea. Using two different solar irradiance datasets, we assessed how the magnitude of irradiance influences PV potential estimates. Theoretical and technical potentials responded linearly to changes in irradiance values, while market potential exhibited nonlinear behavior due to economic viability constraints. Our results show that the market potential based on one irradiance dataset was approximately 18.5 times higher than that based on another, demonstrating the sensitivity of potential estimates to the choice of input data. We further analyzed spatial disparities across municipalities and found that technical potential correlates with administrative area, whereas market potential inversely correlates with population density. The actual PV generation in 2023 reached only 13% of the estimated market potential. The findings underscore the importance of data reliability and spatial context in renewable energy planning. They also highlight the need for policy efforts to overcome economic, regulatory, and social barriers, especially in high-demand areas like Gyeonggi Province.
+
