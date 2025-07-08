@@ -74,7 +74,7 @@ allData_wTotal_forTable <- allData_wTotal %>%
   mutate(SGG = SGG_eng) %>%
   select(-SGG_eng)
 
-#write.csv(allData_wTotal_forTable, "./output/allData_wTotal_forTable.csv", fileEncoding = 'EUC-kr')
+write.csv(allData_wTotal_forTable, "./output/allData_wTotal_forTable.csv", fileEncoding = 'EUC-kr')
 ##################################################################################################################
 ################################################ Graph ###########################################################
 ##################################################################################################################
